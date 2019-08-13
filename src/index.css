@@ -1,0 +1,79 @@
+body{
+  background-color: #344E5C;
+  font-family: 'Zilla Slab', serif;
+  align-items: center;
+  justify-content: center;
+  text-align: center
+}
+
+.App{
+  display: inline-grid;
+}
+
+p.header{
+  font-size: 42px;
+  color: white;
+}
+
+button.upload {
+  font-size: 23px;
+  height: 56px;
+  width: 322px;
+  border: 5px solid #2a3e48;
+  border-radius: 111px;
+  color: #2a3e48;
+  background-color: #a4ec62;
+  font-family: Zilla Slab;
+  cursor: pointer;
+  font-weight: bold;
+  margin: 25px 89px;
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+button.upload:active,
+button.upload:focus{
+  outline: none;
+}
+
+a{
+  color: white;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.none{
+  display: none;
+}
+
+.error{
+  color: #ff5a5a;
+  font-size: 38px;
+}
+
+button.gray{
+  background-color: gray!important;
+}
+
+.success{
+  color: #a4ec62;
+  font-size: 38px;
+}
+
+.progress{
+  color: #a4ec62;
+  font-size: 45px;
+}
+
+textarea{
+  margin-top: 20px;
+}
+
+.sheet{
+  margin-right:20px;
+}
+
+.progressMsg{
+  color: #a4ec62;
+  font-size: 58px;
+}
