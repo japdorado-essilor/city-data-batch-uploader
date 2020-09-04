@@ -5,7 +5,7 @@
   "dependencies": {
     "contentful-management": "^5.9.0",
     "fs": "0.0.1-security",
-    "papaparse": "^5.0.1",
+    "papaparse": "^5.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.0.1"
